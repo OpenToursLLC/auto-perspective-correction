@@ -18,8 +18,11 @@ I prefer to use Ctrl+F9 through Ctrl+F12 which will replace other functions I do
 If you use these keys they will function as follows:
 
 Ctrl+F9 - "Perspective Auto" ( Photoshop will determine what needs fixed )
+
 Ctrl+F10 - "Perspective Full" ( This is for straight on shots )
+
 Ctrl+F11 - "Perspective Level Only" ( This will horizontally level a shot, perfect for drone photos )
+
 Ctrl+F12 - "Perspective Vertical Only" ( This will be your most frequently used one, corrects only vertical perspective )
 
 Enjoy!
